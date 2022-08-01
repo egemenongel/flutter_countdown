@@ -2,7 +2,7 @@ import 'dart:async';
 
 import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
-import 'package:timer_bloc/ticker.dart';
+import 'package:timer_bloc/utils/ticker.dart';
 
 part 'timer_event.dart';
 part 'timer_state.dart';
